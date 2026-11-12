@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 48" fill="none">
+  <rect width="160" height="48" rx="8" fill="#F4F8FC"/>
+  <path d="M12 28L28 14H36L20 28H12Z" fill="#002D62"/>
+  <path d="M22 28L36 16H42L28 28H22Z" fill="#70B5E3"/>
+  <text x="46" y="29" font-family="'Poppins', sans-serif" font-size="14" font-weight="800" fill="#002D62">ANA</text>
+</svg>

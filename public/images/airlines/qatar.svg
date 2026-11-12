@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 48" fill="none">
+  <rect width="160" height="48" rx="8" fill="#FDF7F8"/>
+  <circle cx="24" cy="24" r="13" fill="#5C0632"/>
+  <path d="M19 28L24 16L27 22L29 17L30 28H19Z" fill="#FFFFFF"/>
+  <text x="44" y="25" font-family="'Poppins', sans-serif" font-size="12" font-weight="700" fill="#5C0632">QATAR</text>
+  <text x="44" y="36" font-family="'Poppins', sans-serif" font-size="10" font-weight="400" fill="#5C0632">AIRWAYS</text>
+</svg>

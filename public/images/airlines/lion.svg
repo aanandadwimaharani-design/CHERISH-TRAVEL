@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 48" fill="none">
+  <rect width="160" height="48" rx="8" fill="#FFF5F5"/>
+  <circle cx="24" cy="24" r="13" fill="#D32F2F"/>
+  <path d="M19 25C19 20 25 18 29 23C27 25 24 25 22 28C21 27 20 26 19 25Z" fill="#FFFFFF"/>
+  <text x="44" y="29" font-family="'Poppins', sans-serif" font-size="14" font-weight="700" fill="#D32F2F">Lion</text>
+  <text x="76" y="29" font-family="'Poppins', sans-serif" font-size="14" font-weight="400" fill="#B71C1C">Air</text>
+</svg>
