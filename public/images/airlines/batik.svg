@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 48" fill="none">
+  <rect width="160" height="48" rx="8" fill="#FFF7F5"/>
+  <path d="M12 24L24 14L36 24L24 34L12 24Z" fill="#800020"/>
+  <path d="M18 24L24 19L30 24L24 29L18 24Z" fill="#D4AF37"/>
+  <text x="44" y="29" font-family="'Poppins', sans-serif" font-size="14" font-weight="700" fill="#6B1D2F">Batik</text>
+  <text x="82" y="29" font-family="'Poppins', sans-serif" font-size="14" font-weight="400" fill="#A83248">Air</text>
+</svg>

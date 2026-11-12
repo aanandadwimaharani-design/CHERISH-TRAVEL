@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 48" fill="none">
+  <rect width="160" height="48" rx="8" fill="#F4F8FA"/>
+  <path d="M14 26C18 20 28 18 34 22L20 28L14 26Z" fill="#1B4F72"/>
+  <path d="M22 22C26 18 32 17 36 20L26 25L22 22Z" fill="#E74C3C"/>
+  <text x="44" y="29" font-family="'Poppins', sans-serif" font-size="14" font-weight="700" fill="#1B4F72">Pelita</text>
+  <text x="86" y="29" font-family="'Poppins', sans-serif" font-size="14" font-weight="400" fill="#E74C3C">Air</text>
+</svg>

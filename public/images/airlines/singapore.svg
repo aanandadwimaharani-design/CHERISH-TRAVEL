@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 48" fill="none">
+  <rect width="160" height="48" rx="8" fill="#F4F6F9"/>
+  <path d="M14 26L28 14L32 18L22 28H14Z" fill="#F3A812"/>
+  <path d="M22 28L34 18L38 22L28 32H22Z" fill="#00205B"/>
+  <text x="44" y="25" font-family="'Poppins', sans-serif" font-size="11" font-weight="700" fill="#00205B">SINGAPORE</text>
+  <text x="44" y="36" font-family="'Poppins', sans-serif" font-size="10" font-weight="600" fill="#F3A812">AIRLINES</text>
+</svg>

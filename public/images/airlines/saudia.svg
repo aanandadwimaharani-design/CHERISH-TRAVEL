@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 48" fill="none">
+  <rect width="160" height="48" rx="8" fill="#F4FAF6"/>
+  <circle cx="24" cy="24" r="13" fill="#006C35"/>
+  <path d="M24 16V32M18 24H30" stroke="#FFFFFF" stroke-width="2"/>
+  <text x="44" y="29" font-family="'Poppins', sans-serif" font-size="14" font-weight="700" fill="#006C35">SAUDIA</text>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 48" fill="none">
+  <rect width="160" height="48" rx="8" fill="#F2FBF4"/>
+  <path d="M12 28L22 16H28L18 28H12Z" fill="#008848"/>
+  <path d="M22 28L32 16H38L28 28H22Z" fill="#84BD00"/>
+  <text x="44" y="29" font-family="'Poppins', sans-serif" font-size="14" font-weight="700" fill="#006837">Citilink</text>
+</svg>
